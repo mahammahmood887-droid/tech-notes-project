@@ -13,3 +13,5 @@ this repo is for practicing git and github.
 - merging pull requests
 - resolving conflicts
 - basic git commands
+
+the new line for seeing the conflicts
